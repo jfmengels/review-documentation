@@ -1,3 +1,15 @@
+# DEPRECATED
+
+This package was republished as [`jfmengels/elm-review-documentation`](https://package.elm-lang.org/packages/jfmengels/elm-review-documentation/latest/) in order to have a more consistent naming convention for `elm-review` rule packages.
+
+To migrate, I recommend going to your review configuration and running the following commands:
+
+```bash
+# NOTE: You'll need to have Node.js installed to be able to use `npx`
+npx elm-json uninstall jfmengels/review-documentation --yes
+npx elm-json install jfmengels/elm-review-documentation --yes
+```
+
 # review-documentation
 
 Provides [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/) rules to help with the quality and correctness of your Elm project's documentation.
