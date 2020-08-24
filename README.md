@@ -17,7 +17,7 @@ Provides [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-revi
 
 ## Provided rules
 
-- [`Documentation.ReadmeLinksPointToCurrentVersion`](https://package.elm-lang.org/packages/jfmengels/review-documentation/1.0.1/Documentation-ReadmeLinksPointToCurrentVersion) - Reports links in the `README.md` that do not point to the current version of the package.
+- [`Documentation.ReadmeLinksPointToCurrentVersion`](https://package.elm-lang.org/packages/jfmengels/review-documentation/1.0.2/Documentation-ReadmeLinksPointToCurrentVersion) - Reports links in the `README.md` that do not point to the current version of the package.
 
 ## Configuration
 

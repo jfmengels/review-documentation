@@ -1,9 +1,9 @@
 {
     "type": "package",
     "name": "jfmengels/review-documentation",
-    "summary": "Provides elm-review rules to help with the quality of the documentation",
+    "summary": "DEPRECATED: Use jfmengels/elm-review-documentation instead.",
     "license": "BSD-3-Clause",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "exposed-modules": [
         "Documentation.ReadmeLinksPointToCurrentVersion"
     ],
